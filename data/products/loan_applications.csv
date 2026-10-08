@@ -1,0 +1,4 @@
+account_id,customer_name,account_type,balance
+A1001,Alice Chen,Savings,2500.00
+A1002,Ben Patel,Current,4320.50
+A1003,Chloe Nguyen,Checking,1180.25

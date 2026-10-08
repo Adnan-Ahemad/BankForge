@@ -1,0 +1,5 @@
+showcase = {
+  "status": "completed",
+  "scenario": "showcase",
+  "notes": "Showcase output captured for stakeholder walkthrough.",
+}

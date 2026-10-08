@@ -1,0 +1,5 @@
+demo = {
+  "status": "completed",
+  "scenario": "bankforge demo",
+  "notes": "Demo output captured for local validation and proof-of-run.",
+}

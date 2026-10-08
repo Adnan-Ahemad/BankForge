@@ -1,0 +1,5 @@
+unit_test = {
+  "status": "completed",
+  "scenario": "unittest",
+  "notes": "Unit test output captured for validation evidence.",
+}

@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  accounts:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.accounts
+    ports:
+      - "8001:8001"
+
+  compliance-comms:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.compliance_comms
+    ports:
+      - "8002:8002"
+
+  product-loan:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.product_loan
+    ports:
+      - "8003:8003"
